@@ -7,7 +7,7 @@ pov: no use javascript
  
 
 # Preview
-<img src="img/previe.PNG" alt="">
+<img src="img/preview.PNG" alt="">
 
 # Tecnologias usadas
 <ul>
