@@ -1,7 +1,7 @@
 # site restaurante angolano
 <h1>Parte 2/3 projeto senai: desenvolvimento de site</h1>
 
-pov: no use javascript
+pov: sem o uso de javascript
 
 <a style="font-size: 40px;" href="https://woppedwoke.github.io/site_restaurante/">Usar</a>
  
